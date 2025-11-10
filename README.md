@@ -22,10 +22,10 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 ![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
 *Caption: ANSYS model setup and mesh generation for the extruder screw.*
 
-![ANSYS Erosion Analysis]([посилання-на-скріншот-ерозії-ansys.png])
+![ANSYS Erosion Analysis]((Плакат3_page-0001.jpg)(Плакат4_page-0001.jpg)(Плакат5_page-0001.jpg)(Плакат6_page-0001.jpg))
 *Caption: DPM erosion simulation results showing high-wear areas.*
 
-![Lifespan Increase Chart]([посилання-на-діаграму-232-відсотки.png])
+![Lifespan Increase Chart](Плакат7_page-0001.jpg)
 *Caption: Final data proving a 232% increase in component lifespan.*
 
 ---
