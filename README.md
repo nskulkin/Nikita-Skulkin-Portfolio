@@ -19,7 +19,7 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 * Successfully mapped erosion patterns for fillers like glass fibre and graphite.
 * **Proved that chrome-spraying increased component service life by up to 232%** when processing graphite-filled polymers.
 
-![ANSYS Mesh Generation]([посилання-на-скріншот-сітки-ansys.png])
+![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
 *Caption: ANSYS model setup and mesh generation for the extruder screw.*
 
 ![ANSYS Erosion Analysis]([посилання-на-скріншот-ерозії-ansys.png])
