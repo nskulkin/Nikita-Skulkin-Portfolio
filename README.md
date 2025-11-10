@@ -47,7 +47,7 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 ![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін.pdf)
 *Caption: Von Mises stress analysis of the steel substrate during the scratch test.*
 
-![Abaqus Wear Graph]([посилання-на-графік-зносу-abaqus.png])
+![Abaqus Wear Graph](Picture1.png)
 *Caption: Final wear-to-pressure graph used to calculate the 5000-hour service life.*
 
 ---
