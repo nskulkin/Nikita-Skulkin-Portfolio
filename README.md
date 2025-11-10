@@ -69,7 +69,7 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
 
-![CAD Drawing of Extruder Screw](Червяк_Скулкин.pdf)
+![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
 
 *Caption: Production-ready drawing for an extruder screw (Сталь 38ХМЮА).*
 
