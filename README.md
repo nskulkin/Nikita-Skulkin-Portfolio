@@ -22,7 +22,10 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 ![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
 *Caption: ANSYS model setup and mesh generation for the extruder screw.*
 
-![ANSYS Erosion Analysis]((Плакат3_page-0001.jpg)(Плакат4_page-0001.jpg)(Плакат5_page-0001.jpg)(Плакат6_page-0001.jpg))
+![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001.jpg)
+![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001.jpg)
+![ANSYS Erosion - Filler 3 (Graphite)](Плакат5_page-0001.jpg)
+![ANSYS Erosion - Filler 4 (Fibre Glass)](Плакат6_page-0001.jpg)
 *Caption: DPM erosion simulation results showing high-wear areas.*
 
 ![Lifespan Increase Chart](Плакат7_page-0001.jpg)
