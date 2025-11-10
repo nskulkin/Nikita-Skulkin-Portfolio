@@ -41,11 +41,11 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 * Successfully simulated the stress and deformation caused by a single abrasive particle.
 * Extrapolated the simulation data to calculate a total component lifespan of **T = 5000 hours**.
 
-![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін.pdf)
+![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін.jpg)
 
 *Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions.*
 
-![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін.pdf)
+![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін.jpg)
 
 *Caption: Von Mises stress analysis of the steel substrate during the scratch test.*
 
