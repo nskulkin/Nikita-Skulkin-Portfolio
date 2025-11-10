@@ -59,7 +59,7 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 
 **Methodology:** Used **SOLIDWORKS** and **AutoCAD** to create detailed 3D models, production-ready drawings, and exploded-view assemblies.
 
-![Exploded View of Extruder Head]([посилання-на-3д-плакат-головки.png])
+![Exploded View of Extruder Head](3д_Плакат_Скулкин.PDF)
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
 
 ![CAD Drawing of Extruder Screw]([посилання-на-креслення-шнека.pdf.png])
