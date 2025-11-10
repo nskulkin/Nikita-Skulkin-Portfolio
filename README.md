@@ -42,12 +42,15 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 * Extrapolated the simulation data to calculate a total component lifespan of **T = 5000 hours**.
 
 ![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін.pdf)
+
 *Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions.*
 
 ![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін.pdf)
+
 *Caption: Von Mises stress analysis of the steel substrate during the scratch test.*
 
 ![Abaqus Wear Graph](Picture1.png)
+
 *Caption: Final wear-to-pressure graph used to calculate the 5000-hour service life.*
 
 ---
@@ -60,10 +63,13 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 **Methodology:** Used **SOLIDWORKS** and **AutoCAD** to create detailed 3D models, production-ready drawings, and exploded-view assemblies.
 
 ![Exploded View of Extruder Head](3д_Плакат_Скулкин.PDF)
+
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
 
 ![CAD Drawing of Extruder Screw](Червяк_Скулкин.pdf)
+
 *Caption: Production-ready drawing for an extruder screw (Сталь 38ХМЮА).*
 
 ![Tensegrity Stand Render]([посилання-на-рендер-стенду.png])
+
 *Caption: 3D render of a tensegrity (levitating) POS display.*
