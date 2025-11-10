@@ -73,6 +73,6 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 
 *Caption: Production-ready drawing for an extruder screw (Сталь 38ХМЮА).*
 
-![Tensegrity Stand Render]([посилання-на-рендер-стенду.png])
+![Tensegrity Stand Render](31820-V1_C1.jpg)
 
 *Caption: 3D render of a tensegrity (levitating) POS display.*
