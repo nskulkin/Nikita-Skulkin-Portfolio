@@ -70,7 +70,18 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ---
 
-## Project 3: Mechanical CAD Design (SOLIDWORKS)
+### PROJECT 3: Engineering Automation (AutoLISP)
+### Project: Parametric Shaft Design & Validation Tool (Academic R&D)
+
+**Objective:** To automate and error-proof the creation of technical shaft drawings, a common and repetitive task in mechanical design. (Ref: *Coursework, KPI*)
+
+**Methodology:** Developed a program entirely in **AutoLISP** for AutoCAD. The tool prompts the user for key parameters (diameters, lengths, etc.) and, as shown in the project's logic diagrams, **performs validation checks** ("Блок-схема перевірки") to ensure the inputs are logical and manufacturable.
+
+**Result:** An automation script that instantly generates a complete, validated technical drawing. This tool drastically reduces design time (from hours to minutes) and eliminates the risk of human error in data entry.
+
+---
+
+## Project 4: Mechanical CAD Design (SOLIDWORKS)
 ### Project: Retail POS Display & Industrial Machinery Design (Design Bureau Experience)
 
 **Objective:** To design complex, multi-part assemblies for commercial and industrial use, focusing on Design for Manufacture (DFM).
