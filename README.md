@@ -33,6 +33,127 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
 *Caption: ANSYS model setup and mesh generation for the extruder screw.*
+***Key Annotations (Translated):***
+* `Розрахункова модель`: Calculation Model
+* `Розрахункова сітка`: Calculation Mesh (Grid)
+* `Початкові умови`: Initial Conditions
+* `Визначення поверхні стінки циліндру`: Definition of Cylinder Wall Surface
+* `Визначення поверхні шнеку`: Definition of Screw Surface
+
+![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001.jpg)
+*Caption: DPM erosion simulation results for Calcium Carbonate filler.*
+***Key Annotations (Translated):***
+* `Муари розподілу ерозії`: Erosion Distribution Contours
+* `Без напилення`: Without Spraying/Coating
+* `З напиленням хромом`: With Chrome Spraying/Coating
+* `Механічні властивості...`: Mechanical Properties of Filler
+* `Назва`: Name (Карбонат-кальцію: Calcium Carbonate)
+
+![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001.jpg)
+*Caption: DPM erosion simulation results for Chromium filler.*
+
+![ANSYS Erosion - Filler 3 (Graphite)](Плакат5_page-0001.jpg)
+*Caption: DPM erosion simulation results for Graphite filler.*
+
+![ANSYS Erosion - Filler 4 (Fibre Glass)](Плакат6_page-0001.jpg)
+*Caption: DPM erosion simulation results for Fibre Glass filler.*
+
+![Lifespan Increase Chart](Плакат7_page-0001.jpg)
+*Caption: Final data proving a 232% increase in component lifespan.*
+***Key Annotations (Translated):***
+* `Залежність ерозії від впливу...`: Dependence of Erosion on the Influence of Different Fillers
+* `Ерозія, мм/рік`: Erosion, mm/year
+* `Без напилення`: Without Spraying
+* `Напилення - Хром`: Spraying - Chrome
+* `Збільшення терміну служби шнека...`: Increase in Service Life of the Extruder Screw...
+* `Відносне значення, %`: Relative Value, %
+
+---
+
+## Project 2: FEA / Abrasive Wear Simulation (Abaqus)
+### Project: Research on the Wear Process of the Extruder Screw (BSc Thesis)
+
+**Objective:** To develop a predictive model using **Abaqus (FEA)** to calculate the abrasive wear and total service life of an extruder screw.
+
+**Methodology:** Conducted an FEA simulation of a single quartz particle scratching the steel surface (Сталь 38ХМЮА) to determine reaction forces and Von Mises stress.
+
+**Key Findings:**
+* Successfully simulated the stress and deformation caused by a single abrasive particle.
+* Extrapolated the simulation data to calculate a total component lifespan of **T = 5000 hours**.
+
+![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін_page-0001.jpg)
+*Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions.*
+***Key Annotations (Translated):***
+* `Розрахункова модель`: Calculation Model
+* `Граничні умови`: Boundary Conditions
+* `Модель одного абразивного зерна`: Model of a Single Abrasive Particle
+* `Властивості матеріалів`: Material Properties
+* `Густина`: Density
+* `Модуль Юнга`: Young's Modulus
+
+![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін_page-0001.jpg)
+*Caption: Von Mises stress analysis of the steel substrate during the scratch test.*
+***Key Annotations (Translated):***
+* `Напруження за Мізесом`: Von Mises Stress
+* `Розрахункові значення сил`: Calculated Force Values
+* `Сила тертя`: Friction Force
+* `Сила реакції опори`: Support Reaction Force
+
+![Abaqus Wear Graph](Picture1.png)
+*Caption: Final wear-to-pressure graph used to calculate the 5000-hour service life.*
+
+---
+
+### PROJECT 3: Engineering Automation (AutoLISP)
+### Project: Parametric Shaft Design & Validation Tool (Academic R&D)
+
+**Objective:** To automate and error-proof the creation of technical shaft drawings, a common and repetitive task in mechanical design. (Ref: *Coursework, KPI*)
+
+**Methodology:** Developed a program entirely in **AutoLISP** for AutoCAD. The tool prompts the user for key parameters (diameters, lengths, etc.) and, as shown in the project's logic diagrams, **performs validation checks** ("Блок-схема перевірки") to ensure the inputs are logical and manufacturable.
+
+**Result:** An automation script that instantly generates a complete, validated technical drawing. This tool drastically reduces design time (from hours to minutes) and eliminates the risk of human error in data entry.
+***Key Annotations (Translated):Setting up...***
+* `Блок-схема алгоритму програми`: Program Algorithm Flowchart
+* `Блок-схема перевірки введених даних`: Input Data Validation Flowchart
+
+---
+
+## Project 4: Mechanical CAD Design (SOLIDWORKS)
+### Project: Retail POS Display & Industrial Machinery Design (Design Bureau Experience)
+
+**Objective:** To design complex, multi-part assemblies for commercial and industrial use, focusing on Design for Manufacture (DFM).
+
+**Methodology:** Used **SOLIDWORKS** and **AutoCAD** to create detailed 3D models, production-ready manufacturing drawings, and exploded-view assemblies.
+
+![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001.jpg)
+*Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
+
+![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
+*Caption: Detailed technical drawing for an extruder screw (from academic project), specifying materials and manufacturing principles.*
+***Key Annotations (Translated):***
+* `Черв'як`: Screw / Worm Screw
+* `Сталь 38ХМЮА`: Steel 38KhMYuA (Nitriding Steel)
+* `Полірувати Ra 0,20`: Polish to Ra 0.20 (Surface Finish)
+* `Розроб. (Розробив)`: Designed by
+* `Перевір. (Переві
+
+I am now focused on applying this unique combination of deep analytical skills and practical field experience to my core career in R&D and Mechanical Engineering.
+
+---
+
+## Project 1: R&D / CFD Simulation (ANSYS)
+### Project: Increasing the Strength of Extruder Parts by Spraying (MSc Thesis)
+
+**Objective:** To analyze and predict the mechanical erosion (abrasive wear) of extruder screws caused by various abrasive fillers and to prove the effectiveness of chrome-spraying.
+
+**Methodology:** Developed an advanced numerical model (CFD) using **ANSYS** with the **Discrete Phase Model (DPM)** to simulate and map wear patterns.
+
+**Key Findings:**
+* Successfully mapped erosion patterns for fillers like glass fibre and graphite.
+* **Proved that chrome-spraying increased component service life by up to 232%** when processing graphite-filled polymers.
+
+![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
+*Caption: ANSYS model setup and mesh generation for the extruder screw.*
 
 ![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001.jpg)
 ![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001.jpg)
