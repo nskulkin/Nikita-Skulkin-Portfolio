@@ -102,7 +102,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ---
 
-### PROJECT 4: 3D CAD Design (Heat Exchanger Assembly)
+### PROJECT 5: 3D CAD Design (Heat Exchanger Assembly)
 
 **Task:** To design a complete, multi-component shell and tube heat exchanger based on thermodynamic principles.
 
