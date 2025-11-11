@@ -88,3 +88,15 @@ I am now focused on applying this unique combination of deep analytical skills a
 ![Tensegrity Stand Render](31820-V1_C1.jpg)
 
 *Caption: 3D render of a tensegrity (levitating) POS display.*
+
+---
+
+### PROJECT 4: 3D CAD Design (Heat Exchanger Assembly)
+
+**Task:** To design a complete, multi-component shell and tube heat exchanger based on thermodynamic principles.
+
+**Methodology:** This project involved creating a detailed 3D model of the full assembly from the ground up, including the shell, tube bundle, baffles, and flanges. This design directly relates to my academic research into heat transfer intensity and fluid dynamics.
+
+**Result:** A verifiable, production-ready 3D model of a complex industrial apparatus.
+
+**[Click here to view the interactive 3D Model on Autodesk A360](https://a360.co/38QWUZy)**
