@@ -8,6 +8,18 @@ This portfolio showcases key R&D projects that demonstrate my capabilities in st
 
 ---
 
+### About Me
+
+I am an MSc-qualified R&D and Mechanical Engineer specializing in FEA simulation (ANSYS, Abaqus) and complex CAD design.
+
+Following my academic and R&D career, I relocated to the UK. My immediate priority was to gain practical, hands-on industry experience within the UK market and perfect my business-level English.
+
+To achieve this, I took on Field Engineering and client-facing roles. This phase provided me with an invaluable understanding of how systems are commissioned, installed, and perform in real-world environments.
+
+I am now focused on applying this unique combination of deep analytical skills and practical field experience to my core career in R&D and Mechanical Engineering.
+
+---
+
 ## Project 1: R&D / CFD Simulation (ANSYS)
 ### Project: Increasing the Strength of Extruder Parts by Spraying (MSc Thesis)
 
