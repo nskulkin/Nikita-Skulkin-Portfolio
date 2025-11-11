@@ -94,7 +94,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
 
-*Caption: Production-ready drawing for an extruder screw (Сталь 38ХМЮА).*
+*Caption: Detailed technical drawing for an extruder screw (from academic project), specifying materials and manufacturing principles.*
 
 ![Tensegrity Stand Render](31820-V1_C1.jpg)
 
@@ -108,6 +108,6 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 **Methodology:** This project involved creating a detailed 3D model of the full assembly from the ground up, including the shell, tube bundle, baffles, and flanges. This design directly relates to my academic research into heat transfer intensity and fluid dynamics.
 
-**Result:** A verifiable, production-ready 3D model of a complex industrial apparatus.
+**Result:** A detailed 3D assembly model of an industrial heat exchanger (from academic project).
 
 **[Click here to view the interactive 3D Model on Autodesk A360](https://a360.co/38QWUZy)**
