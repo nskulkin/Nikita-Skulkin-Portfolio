@@ -31,7 +31,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 * Successfully mapped erosion patterns for fillers like glass fibre and graphite.
 * **Proved that chrome-spraying increased component service life by up to 232%** when processing graphite-filled polymers.
 
-![ANSYS Mesh Generation](Плакат1_page-0001.jpg)
+![ANSYS Mesh Generation](Плакат1_page-0001_red.png)
 *Caption: ANSYS model setup and mesh generation for the extruder screw. See English annotations below.*
 ***Key English Annotations:***
 1.  Calculation Model
@@ -40,7 +40,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 4.  Surface Definition: Cylinder Wall
 5.  Surface Definition: Screw
 
-![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001.jpg)
+![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001_red.png)
 *Caption: DPM erosion simulation results for Calcium Carbonate filler. English annotations below.*
 ***Key English Annotations:***
 1.  Erosion Distribution Contours
@@ -49,16 +49,16 @@ I am now focused on applying this unique combination of deep analytical skills a
 4.  Mechanical Properties of Filler
 5.  Name: Calcium Carbonate
 
-![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001.jpg)
+![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001_red.png)
 *Caption: DPM erosion simulation results for Chromium filler.*
 
-![ANSYS Erosion - Filler 3 (Graphite)](Плакат5_page-0001.jpg)
+![ANSYS Erosion - Filler 3 (Graphite)](Плакат5_page-0001_red.png)
 *Caption: DPM erosion simulation results for Graphite filler.*
 
-![ANSYS Erosion - Filler 4 (Fibre Glass)](Плакат6_page-0001.jpg)
+![ANSYS Erosion - Filler 4 (Fibre Glass)](Плакат6_page-0001_red.png)
 *Caption: DPM erosion simulation results for Fibre Glass filler.*
 
-![Lifespan Increase Chart](Плакат7_page-0001.jpg)
+![Lifespan Increase Chart](Плакат7_page-0001_red.png)
 *Caption: Final data proving a 232% increase in component lifespan. English annotations below.*
 ***Key English Annotations:***
 1.  Dependence of Erosion on the Influence of Different Fillers
@@ -81,7 +81,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 * Successfully simulated the stress and deformation caused by a single abrasive particle.
 * Extrapolated the simulation data to calculate a total component lifespan of **T = 5000 hours**.
 
-![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін_page-0001.jpg)
+![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін_page-0001_red.png)
 *Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions. English annotations below.*
 ***Key English Annotations:***
 1.  Calculation Model
@@ -91,7 +91,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 5.  Density
 6.  Young's Modulus
 
-![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін_page-0001.jpg)
+![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін_page-0001_red.jpeg)
 *Caption: Von Mises stress analysis of the steel substrate during the scratch test. English annotations below.*
 ***Key English Annotations:***
 1.  Von Mises Stress
@@ -123,7 +123,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 **Methodology:** Used **SOLIDWORKS** and **AutoCAD** to create detailed 3D models, production-ready manufacturing drawings, and exploded-view assemblies.
 
-![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001.jpg)
+![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001_red.jpg)
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
 
 ![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
