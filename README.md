@@ -33,6 +33,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![ANSYS Mesh Generation](Плакат1_page-0001_red.png)
 *Caption: ANSYS model setup and mesh generation for the extruder screw. See English annotations below.*
+
 ***Key English Annotations:***
 1.  Calculation Model
 2.  Calculation Mesh (Grid)
@@ -44,6 +45,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001_red.png)
 *Caption: DPM erosion simulation results for Calcium Carbonate filler. English annotations below.*
+
 ***Key English Annotations:***
 1.  Erosion Distribution Contours
 2.  Without Spraying/Coating
@@ -52,6 +54,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![ANSYS Erosion - Filler 2 (Chromium)](Плакат4_page-0001_red.png)
 *Caption: DPM erosion simulation results for Chromium filler.*
+
 ***Key English Annotations:***
 1.  Erosion Distribution Contours
 2.  Without Spraying/Coating
@@ -60,6 +63,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![ANSYS Erosion - Filler 3 (Graphite)](Плакат5_page-0001_red.png)
 *Caption: DPM erosion simulation results for Graphite filler.*
+
 ***Key English Annotations:***
 1.  Erosion Distribution Contours
 2.  Without Spraying/Coating
@@ -76,18 +80,19 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![Lifespan Increase Chart](Плакат7_page-0001_red.png)
 *Caption: Final data proving a 232% increase in component lifespan. English annotations below.*
+
 ***Key English Annotations:***
-1.  (Chart Title) Dependence of Erosion on the Influence of Different Fillers
-2.  (Y-Axis) Erosion, mm/year
-3.  (Legend) Without Spraying
-4.  (Legend) Spraying - Chrome
-5.  (Chart Title) Increase in Service Life of the Extruder Screw...
-6.  (Y-Axis) Relative Value, %
-7.  (Header) Main Conclusions on the Work
-8.  (Point 1) Graphite filler has the highest erosive impact on uncoated surfaces (0.22 mm/year).
-9.  (Point 2) Fiberglass has the highest erosive impact on coated surfaces (0.077 mm/year).
-10. (Point 3) Chrome coating is most effective with Graphite filler (**232% service life increase**) and least effective with Fiberglass (53% increase).
-11. (Point 4) The obtained results can be used to increase component strength and service life via spraying.
+1.  Dependence of Erosion on the Influence of Different Fillers
+2.  Erosion, mm/year
+3.  Without Spraying
+4.  Spraying - Chrome
+5.  Increase in Service Life of the Extruder Screw...
+6.  Relative Value, %
+7.  Main Conclusions on the Work
+8.  Graphite filler has the highest erosive impact on uncoated surfaces (0.22 mm/year).
+9.  Fiberglass has the highest erosive impact on coated surfaces (0.077 mm/year).
+10. Chrome coating is most effective with Graphite filler (**232% service life increase**) and least effective with Fiberglass (53% increase).
+11. The obtained results can be used to increase component strength and service life via spraying.
 
 ---
 
@@ -104,6 +109,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін_page-0001_red.png)
 *Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions. English annotations below.*
+
 ***Key English Annotations:***
 1.  Calculation Model
 2.  Boundary Conditions
@@ -115,6 +121,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін_page-0001_red.jpeg)
 *Caption: Von Mises stress analysis of the steel substrate during the scratch test. English annotations below.*
+
 ***Key English Annotations:***
 1.  Calculated Force Values
 2.  Material: Steel 38KhMYuA (Nitriding Steel)
@@ -150,6 +157,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001.jpg)
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
+
 ***Key English Annotations:***
 1.  Clamping / Pressure Washer
 2.  Flange
@@ -160,6 +168,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 ![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
 *Caption: Detailed technical drawing for an extruder screw (from academic project). English annotations below.*
+
 ***Key English Annotations:***
 1.  Torpedo (Die Head Core)
 2.  Extruder Screw
