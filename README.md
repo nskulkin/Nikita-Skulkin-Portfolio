@@ -32,7 +32,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 * **Proved that chrome-spraying increased component service life by up to 232%** when processing graphite-filled polymers.
 
 ![ANSYS Mesh Generation](Плакат1_page-0001_red.png)
-*Caption: ANSYS model setup and mesh generation for the extruder screw. See English annotations below.*
+*Caption: ANSYS model setup and mesh generation for the extruder screw.*
 
 ***Key English Annotations:***
 1.  Calculation Model
@@ -44,7 +44,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 
 ![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001_red.png)
-*Caption: DPM erosion simulation results for Calcium Carbonate filler. English annotations below.*
+*Caption: DPM erosion simulation results for Calcium Carbonate filler.*
 
 ***Key English Annotations:***
 1.  Erosion Distribution Contours
@@ -79,7 +79,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 4.  Mechanical Properties of Filler
 
 ![Lifespan Increase Chart](Плакат7_page-0001_red.png)
-*Caption: Final data proving a 232% increase in component lifespan. English annotations below.*
+*Caption: Final data proving a 232% increase in component lifespan.*
 
 ***Key English Annotations:***
 1.  Dependence of Erosion on the Influence of Different Fillers
@@ -108,7 +108,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 * Extrapolated the simulation data to calculate a total component lifespan of **T = 5000 hours**.
 
 ![Abaqus Model Setup](Абакус_ПЛ1_Cкулкін_page-0001_red.png)
-*Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions. English annotations below.*
+*Caption: FEA model in Abaqus showing particle/substrate setup and boundary conditions.*
 
 ***Key English Annotations:***
 1.  Calculation Model
@@ -120,7 +120,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 7.  Normal Behavior (Hard Contact)
 
 ![Abaqus Von Mises Stress](Абакус_ПЛ2_Cкулкін_page-0001_red.jpeg)
-*Caption: Von Mises stress analysis of the steel substrate during the scratch test. English annotations below.*
+*Caption: Von Mises stress analysis of the steel substrate during the scratch test.*
 
 ***Key English Annotations:***
 1.  Calculated Force Values
@@ -167,7 +167,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 6.  Lower Plate
 
 ![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
-*Caption: Detailed technical drawing for an extruder screw (from academic project). English annotations below.*
+*Caption: Detailed technical drawing for an extruder screw (from academic project).*
 
 ***Key English Annotations:***
 1.  Torpedo (Die Head Core)
