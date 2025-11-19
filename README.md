@@ -123,7 +123,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 
 **Methodology:** Used **SOLIDWORKS** and **AutoCAD** to create detailed 3D models, production-ready manufacturing drawings, and exploded-view assemblies.
 
-![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001_red.jpg)
+![Exploded View of Extruder Head](3д_Плакат_Скулкин_page-0001.jpg)
 *Caption: Exploded view of an extruder head assembly designed in SOLIDWORKS.*
 
 ![CAD Drawing of Extruder Screw](Шнек_page-0001.jpg)
