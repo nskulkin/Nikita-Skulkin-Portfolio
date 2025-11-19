@@ -36,9 +36,11 @@ I am now focused on applying this unique combination of deep analytical skills a
 ***Key English Annotations:***
 1.  Calculation Model
 2.  Calculation Mesh (Grid)
-3.  Initial Conditions
-4.  Surface Definition: Cylinder Wall
-5.  Surface Definition: Screw
+3.  Boundary Conditions
+4.  Definition of Melt (Fluid-PP)
+5.  Definition of Cylinder Wall Surface
+6.  Definition of Screw Surface
+
 
 ![ANSYS Erosion - Filler 1 (Сalcium Сarbonate)](Плакат3_page-0001_red.png)
 *Caption: DPM erosion simulation results for Calcium Carbonate filler. English annotations below.*
@@ -122,6 +124,7 @@ I am now focused on applying this unique combination of deep analytical skills a
 6.  Reaction Force vs. Time Graphs (at varying scratch depths)
 
 ![Abaqus Wear Graph](Picture1.png)
+
 *Caption: Final wear-to-pressure graph used to calculate the 5000-hour service life.*
 
 ---
