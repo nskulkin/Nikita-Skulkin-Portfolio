@@ -144,7 +144,21 @@ I am now focused on applying this unique combination of deep analytical skills a
 **Methodology:** Developed a program entirely in **AutoLISP** for AutoCAD. The tool prompts the user for key parameters (diameters, lengths, etc.) and performs validation checks to ensure the inputs are logical and manufacturable.
 
 **Result:** An automation script that instantly generates a complete, validated technical drawing. This tool drastically reduces design time (from hours to minutes) and eliminates the risk of human error in data entry.
-*(Note: Project contains flowcharts for Program Algorithm and Input Data Validation).*
+
+![AutoLISP Algorithm Flowchart] (Курсова_КПО_Скулкін_Н_О (1)_page-0002_red.png)
+*Caption: Logic flowchart of the automation script, illustrating the input validation process and decision trees.*
+***Key English Annotations:***
+
+
+![AutoLISP Code Snippet](Курсова_КПО_Скулкін_Н_О (1)_page-0003_red.png)
+*Caption: Snippet of the source code developed in AutoLISP for AutoCAD integration, alongside the User Interface input dialog.*
+***Key English Annotations:***
+
+
+![Generated Shaft Drawing](img979.jpg)
+
+*Caption: Final technical drawing of a shaft generated automatically by the script.*
+
 
 ---
 
