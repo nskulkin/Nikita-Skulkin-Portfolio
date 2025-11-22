@@ -146,11 +146,13 @@ I am now focused on applying this unique combination of deep analytical skills a
 **Result:** An automation script that instantly generates a complete, validated technical drawing. This tool drastically reduces design time (from hours to minutes) and eliminates the risk of human error in data entry.
 
 ![AutoLISP Algorithm Flowchart] (Курсова_КПО_Скулкін_Н_О (1)_page-0002_red.png)
+
 *Caption: Logic flowchart of the automation script, illustrating the input validation process and decision trees.*
 ***Key English Annotations:***
 
 
 ![AutoLISP Code Snippet](Курсова_КПО_Скулкін_Н_О (1)_page-0003_red.png)
+
 *Caption: Snippet of the source code developed in AutoLISP for AutoCAD integration, alongside the User Interface input dialog.*
 ***Key English Annotations:***
 
